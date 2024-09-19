@@ -7,8 +7,7 @@ C/C++ code to extract MFCC or FBank features from wav files.
 
 1. Download following code from my GitHub and put these three directories under the same root directory.
     1. https://github.com/hangtingchen/BasicAudioToolBox
-    2. https://github.com/hangtingchen/MFCC
-    3. https://github.com/hangtingchen/inih
+
 2. Switch the branch from master to masterCPlus in BasicAudioToolBox and MFCC. (The master branch is okay but it is highly recommended to use masterCPlus)
 3. For Linux, use `make` in `MFCC` directory to construct the program. The target is `mfcc`.
 4. For Windows, 
